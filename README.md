@@ -2,7 +2,7 @@
 
 😎 Welcome to my GitHub 😎
 
-🌟 My name is Juanma and I'm from Málaga, Spain 
+🌟 My name is Juanma and I'm from Málaga, Spain <br>
 🌟 At this moment, I'm studying the application development in an advanced specific vocational training
 <!--
 **Carmona97/Carmona97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
