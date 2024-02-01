@@ -3,8 +3,8 @@
 😎 Welcome to my GitHub 😎
 
 🌟 My name is Juanma and I'm from Málaga, Spain <br>
-🌟 At this moment, I'm studying the application development in an advanced specific vocational training
-🌟
+🌟 At this moment, I'm studying the application development in an advanced specific vocational training <br>
+🌟 I’m interested in software development, agile methodologies, database management, and improving code efficiency. 
 
 
 ## 🌐 Socials:
@@ -16,13 +16,14 @@
 
 
 # 📊 GitHub Stats:
-<div style="margin: 0 auto;">
+
     
 ![](https://github-readme-stats.vercel.app/api?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=outrun&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=outrunl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+# 😊 Glad to see you again:
+![](https://komarev.com/ghpvc/?username=Carmona97&color=dc143c)
 
 
 
