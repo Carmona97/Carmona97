@@ -20,7 +20,7 @@
     
 ![](https://github-readme-stats.vercel.app/api?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=outrun&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=outrunl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 😊 Glad to see you again:
 ![](https://komarev.com/ghpvc/?username=Carmona97&color=dc143c)
