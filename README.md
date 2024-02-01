@@ -16,12 +16,15 @@
 
 
 # 📊 GitHub Stats:
-<div style= margin: 0 auto;">
-    <!-- Tus elementos centrados aquí -->
-    ![](https://github-readme-stats.vercel.app/api?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=outrun&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=outrunl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="text-align: center; margin: auto; max-width: 600 px;">
+    
+![](https://github-readme-stats.vercel.app/api?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=outrun&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=outrunl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
+
+
 
 <!--
 **Carmona97/Carmona97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
