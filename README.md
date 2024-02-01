@@ -16,7 +16,7 @@
 
 
 # 📊 GitHub Stats:
-<div style="text-align: center; margin: auto; max-width: 600 px;">
+<div style="margin: 0 auto;">
     
 ![](https://github-readme-stats.vercel.app/api?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=outrun&hide_border=false)<br/>
