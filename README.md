@@ -16,15 +16,17 @@
 
 
 # 📊 GitHub Stats:
-
+<div align = center> 
     
-![](https://github-readme-stats.vercel.app/api?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=outrun&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide=html,css,rich%20text%20format,javascript) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=outrun&hide_border=false) |
+|:-:|:-:|
+ </div>
 
 # 😊 Glad to see you again:
-![](https://komarev.com/ghpvc/?username=Carmona97&color=dc143c)
-
+<div align=center>
+    
+![](https://komarev.com/ghpvc/?username=Carmona97&color=141439)
+</div>
 
 
 <!--
