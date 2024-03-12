@@ -4,7 +4,7 @@
 
 🌟 My name is Juanma and I'm from Málaga, Spain <br>
 🌟 At this moment, I'm studying the application development in an advanced specific vocational training <br>
-🌟 I’m interested in software development, agile methodologies, database management, and improving code efficiency. 
+🌟 I’m keen on software development, agile methodologies, database management, and improving code efficiency. 
 
 
 ## 🌐 Socials:
