@@ -64,7 +64,8 @@
 # 📊 GitHub Stats:
 <div align = center> 
     
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide=html,css,rich%20text%20format,javascript) 
+![Carmona97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![Carmona97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=dracula&hide_border=false)
 
  </div>
 
