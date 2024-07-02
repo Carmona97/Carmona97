@@ -62,12 +62,11 @@
 
 
 # 📊 GitHub Stats:
-<div align = center> 
-    
-![Carmona97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-![Carmona97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=dracula&hide_border=false)
+<div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=dracula&show_icons=true&hide_border=false&layout=compact&width=450" alt="Carmona97's Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=dracula&hide_border=false&width=450" alt="Carmona97's Streak" />
+</div>
 
- </div>
 
 # 😊 Glad to see you again:
 <div align=center>
