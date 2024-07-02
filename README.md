@@ -60,8 +60,8 @@
 
 # 📊 GitHub Stats:
 <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Carmona97's Top Languages" height="200px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=dracula&hide_border=false" alt="Carmona97's Streak" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Carmona97's Top Languages" height="140px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=dracula&hide_border=false" alt="Carmona97's Streak" height="140px"/>
 </div>
 
 # 😊 Glad to see you again:
