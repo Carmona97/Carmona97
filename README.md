@@ -57,22 +57,18 @@
 [![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-es.html)
 
 [//]: <> (https://simpleicons.org/)
-<!--![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/) [![Odoo](https://img.shields.io/badge/odoo-%23F1502F.svg?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/) [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio) -->
-
-
 
 # 📊 GitHub Stats:
 <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=dracula&show_icons=true&hide_border=false&layout=compact&width=450" alt="Carmona97's Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=dracula&hide_border=false&width=450" alt="Carmona97's Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Carmona97's Top Languages" height="200px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carmona97&theme=dracula&hide_border=false" alt="Carmona97's Streak" height="200px"/>
 </div>
-
 
 # 😊 Glad to see you again:
-<div align=center>
-    
-![](https://komarev.com/ghpvc/?username=Carmona97&color=141439)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Carmona97&color=ff6e96" alt="Profile Views" />
 </div>
+
 
 
 <!--
