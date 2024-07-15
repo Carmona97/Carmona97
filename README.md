@@ -60,7 +60,7 @@
 
 # 📊 GitHub Stats:
 <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Carmona97's Top Languages" height="140px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona97&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Carmona97's Top Languages" height="240px"/>
 </div>
 
 # 😊 Glad to see you again:
