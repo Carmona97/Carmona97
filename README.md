@@ -3,9 +3,6 @@
 😎 Welcome to my GitHub 😎
 
 🌟 My name is Juanma and I'm from Málaga, Spain <br>
-🌟 At this moment, I am looking for a job opportunity as backend developer. <br>
-🌟 I’m keen on software development, agile methodologies, database management, and improving code efficiency. 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmacarmona/) 
